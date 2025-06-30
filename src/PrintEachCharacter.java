@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class PrintEachCharacter {
 
     public static void main(String[] args) {
-        int i, c = 0;
+        int i;
         String s1;
 
         System.out.println("enter the string");
