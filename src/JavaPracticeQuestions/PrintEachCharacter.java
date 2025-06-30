@@ -1,4 +1,7 @@
+package JavaPracticeQuestions;
+
 import java.util.Scanner;
+
 public class PrintEachCharacter {
 
     public static void main(String[] args) {
